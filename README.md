@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Deekshant Singh aka Harsh</h1>
+<h1 align="center">Hi 👋, I'm Deekshant Singh</h1>
 <h3 align="center">It's me and my coffee mug vs the whole world</h3>
 
 - 📫 How to reach me **singhdekson@gmail.com**
